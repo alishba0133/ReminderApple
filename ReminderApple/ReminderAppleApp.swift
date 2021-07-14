@@ -11,7 +11,7 @@ import SwiftUI
 struct ReminderAppleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskListView()
         }
     }
 }
